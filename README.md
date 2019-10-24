@@ -16,3 +16,8 @@ $ pod install
     Open the workspace in Xcode
 
 $ open "AIBWeatherApp.xcworkspace"
+
+
+ToDo:
+
+ There is a lot of space to do refgactoring and proper UI.
